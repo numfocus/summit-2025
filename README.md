@@ -1,4 +1,4 @@
-# summit-2025
+# Project Summit-2025
 **Purpose**
 
 This repository contains the assets (recordings, notes and presenatation slides) from the 2025 NumFOCUS Project Summit - held October 22-24.
