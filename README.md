@@ -31,6 +31,7 @@ Please reach out to [help@numfocus](help@numfocus.org}) if you have any question
     * Ianna Osborne
       * [Awkward Array Slides](https://github.com/ianna/NumFOCUS-2025-Summit_Awkward-Array/blob/main/slides/Awkward%20Array%20community%20outreach.pdf)
     * Vissarion Fisikopoulos
+      * [Geomscale](https://www.slideshare.net/slideshow/geomscale-s-lightning-talk-at-numfocus-projects-summit-2025/283969499)
     * Francesc Alted
       * [Blosc2 Accelerated Compute Engine — PDF](https://www.blosc.org/docs/Blosc2-Accelerated-Compute-Engine.pdf)
  
