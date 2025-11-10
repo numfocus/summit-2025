@@ -46,7 +46,7 @@ Please reach out to [help@numfocus](help@numfocus.org}) if you have any question
   * [Issue #4](https://github.com/numfocus/summit-2025/issues/4)
   * Passcode: .$z#%Ae5
   
- - AWAITING ASSETS FOR [Lightning Talk Session B] 
+ - AWAITING ASSETS FOR [Lightning Talk Session B] - [Issue #1](https://github.com/numfocus/summit-2025/issues/1)
  
  - [Lightning Talk Session C](https://numfocus-org.zoom.us/rec/share/Dyb8ZVSEupRbIDDwDaTJ-7j2sZplrnjx_l1s8LfJ4a21tzWfFx3YVH3qQNv6zehi.1fAo49ZBCO8h8Izv?startTime=1761236969000)
    * [Issue #5](https://github.com/numfocus/summit-2025/issues/5)
