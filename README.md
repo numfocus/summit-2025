@@ -16,7 +16,9 @@ Attendees:
 - Click the link for an asset to view or download it.
 - If you have questions, feedback, or want to request changes for an asset, please use the corresponding issue created in this repository (one issue per asset).
 
-**Contributing**
+**How to Provide Feedback / Questions**
+- If you have any feedback or want to ask a question please do so by adding a comment to the general issue.
+- If you have any feedback or want to ask a question for specific sessions in the issue linked to it.
 - If you update an asset, mention the linked issue in your commit or PR so others can follow changes.
 - To add a new asset, add it to this README and create a new issue following the existing pattern.
 Please reach out to [help@numfocus](help@numfocus.org}) if you have any questions or issues with access.
