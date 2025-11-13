@@ -23,6 +23,9 @@ Attendees:
 - To add a new asset, add it to this README and create a new issue following the existing pattern.
 Please reach out to [help@numfocus](help@numfocus.org}) if you have any questions or issues with access.
 
+**General Feedback**
+  * [Issue #10](https://github.com/numfocus/summit-2025/issues/10) - Have a question, feedback, or idea that isn't related to the below assets? Leave it here!
+
 **Key assets**
 
 **Day 1: Wednesday, October 22nd** 
