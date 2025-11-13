@@ -27,8 +27,9 @@ Please reach out to [help@numfocus](help@numfocus.org}) if you have any question
 
 **Day 1: Wednesday, October 22nd** 
 - Lightning Talks Session A — [Zoom recording](https://numfocus-org.zoom.us/rec/share/3E13odeXG1MrGD-rOljugieVIME0xbVZkiTaHew9nWCqFlQ-qQ7gJ8hTwdteaIuh.zNPruHNEIyy8yyVf  )
-   * [Issue #2](https://github.com/numfocus/summit-2025/issues/2)
    * Passcode: v+7E6W!!
+   * [Issue #2](https://github.com/numfocus/summit-2025/issues/2)
+  
   * Speakers:
     * Ianna Osborne
       * [Awkward Array Slides](https://github.com/ianna/NumFOCUS-2025-Summit_Awkward-Array/blob/main/slides/Awkward%20Array%20community%20outreach.pdf)
@@ -38,15 +39,15 @@ Please reach out to [help@numfocus](help@numfocus.org}) if you have any question
       * [Blosc2 Accelerated Compute Engine — PDF](https://www.blosc.org/docs/Blosc2-Accelerated-Compute-Engine.pdf)
  
 - Opening Remarks & The State of NumFOCUS — [Zoom recording](https://numfocus-org.zoom.us/rec/share/NdsFKajdT1xs3bpDr_sp7qaFTfCGr6ZTUVdetSTZW55GJXl_jGrWOHQbYkLl7JCX.HB07f5_Ob9aRjhb6)
-   * [Issue #3](https://github.com/numfocus/summit-2025/issues/3)
    * Passcode: sjv4+!fS  
+   * [Issue #3](https://github.com/numfocus/summit-2025/issues/3)
    * [Slides](https://docs.google.com/presentation/d/1wt3V2xof9bHIng_ezWrp3GJz23fxNQbwFz1qIvRJT34/edit?usp=drive_link)
 
 **Day 2: Thursday, October 23rd**
 
 - Global Funding Townhall — [Zoom recording](https://numfocus-org.zoom.us/rec/share/RxiugskaSH6j_kOnvYrTg6FAhKRR4ZbZ-c2ptaJr7clITD5i75HdMp5v-KLiHcK5.z2iX3mCZfmHm738J)
-  * [Issue #4](https://github.com/numfocus/summit-2025/issues/4)
   * Passcode: .$z#%Ae5
+  * [Issue #4](https://github.com/numfocus/summit-2025/issues/4)
   
  - AWAITING ASSETS FOR [Lightning Talk Session B] - [Issue #1](https://github.com/numfocus/summit-2025/issues/1)
  
@@ -63,8 +64,8 @@ Please reach out to [help@numfocus](help@numfocus.org}) if you have any question
 **Day 3: Friday, October 24th**
 - Project Services — [Zoom recording](https://numfocus-org.zoom.us/rec/share/ynlPHKeqQW7ugjcvVFytljbVBsvPUMJadA8yGGz-DgR64skeY6N1iX6lb-bRQaen.dqAOZbitQa8mZdq7)
 
-  * [Issue #7](https://github.com/numfocus/summit-2025/issues/7)
   * Passcode: #2kFB$1J
+  * [Issue #7](https://github.com/numfocus/summit-2025/issues/7)
   * [Notes](https://docs.google.com/document/d/1wVGG48FJ1Hi7erhUrT_iD7MyEufu0pzWnTCJTiSFJr4/edit?tab=t.kg96p0hhypn4)
  
 - BoF: The New Lab Partner: The Role of Generative AI in Scientific Research and Development
